@@ -1,0 +1,28 @@
+/* Adicionando CSS */
+/* Com seletor 'TAG' */
+h1{
+    color: cadetblue;
+    font-size: 27px;
+    font-family: monospace;
+}
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/* Adicionando CSS */
+/* Com seletor 'id' */
+/* ID NAO pode ser compartilhado */
+#prgf2{
+    color: lightseagreen;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Adicionando CSS */
+/* Com seletor 'class' */
+.p-texto{
+    color: darkcyan;
+    font-family: cursive;
+    font-size: 20px;
+}
