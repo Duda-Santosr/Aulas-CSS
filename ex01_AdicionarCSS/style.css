@@ -1,0 +1,21 @@
+/* Usando CSS externo */
+h1 {
+    /* Muda a cor das letras */
+    color: darkmagenta;
+    font-size: 150px;
+    font-family: 'Courier New', Courier, monospace;
+    span{
+        color: aqua;
+    }
+    
+}
+h2{
+    color: cornflowerblue;
+    /* Muda o tamanho das letras */
+    font-size: 100px;
+    font-family: cursive;
+p{
+    color: midnightblue;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
