@@ -1,0 +1,25 @@
+body{
+    background-color: darkmagenta;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+}
+
+/* telas desktop até 1024px */
+@media screen and (min-width:1024px){
+    h1 {font-size: 48px; color: mediumvioletred;}
+    p{font-size: 24px;}
+}
+
+/* tales tablet mínimo 768px até 1023px */
+@media (min-width:768px) and (max-width:1023px){
+    h1{font-size: 24px;}
+    p{font-size: 20px;}
+    body {background-color: rebeccapurple;}
+}
+
+/* telas moblie máximo 767px */
+@media screen and (max-width:767px){
+    h1{font-size: 20px;}
+    p{font-size: 16px;}
+    body{background-color: magenta;}
+}
