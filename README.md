@@ -9,3 +9,7 @@
  * Animação com Times;
  * Box, Model e Bordas;
  * Position Static;
+ * Position Relative;
+ * Position Absolute;
+ * Position Fixed;
+ * Position Sticky.
