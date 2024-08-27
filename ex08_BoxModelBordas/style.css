@@ -1,0 +1,22 @@
+body{
+    margin: 0px;
+}
+
+.boxmodel{
+    width: 200px;
+    height: 200px;
+    color: aliceblue;
+    font-family: sans-serif;
+    background-color: rgb(159, 212, 246);
+    /* Espaçamento depois do conteúdo */
+    padding: 30px 30px;
+    /* Linha que fica após o padding */
+    border: 10px solid rgb(3, 3, 142);
+    border-left: 10px outset rgb(0, 149, 255);
+    border-right: 10px outset lightskyblue;
+    /* Arredonda as bordas */
+    border-radius: 30px;
+    /* adicionando espaço */
+    margin: 50px 50px;
+   
+}
